@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("connection-checker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8417b3b5bb1ff401cec8830d9ddac359962bdb6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5006043cde307efbd858d8790c8db1a8666c065c")]
 [assembly: System.Reflection.AssemblyProductAttribute("connection-checker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("connection-checker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
