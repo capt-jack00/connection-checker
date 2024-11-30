@@ -11,6 +11,7 @@ class Program
     {
         int c = 0;
         
+        // Edit this string to add your own chosen websites
         string[] websites = {
             "https://sample.com",
             "https://sample1.pl"
